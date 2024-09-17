@@ -10,7 +10,9 @@ Facial verification using biometric data has become an essential aspect of secur
 
 ## Testing Method
 
-We use "Confidence" as a parameter, ideally you should set it to higher than 95%. But depends on how linient you want to be!
+We use "Confidence" as a parameter, ideally you should set it to higher than 95%. But depends on how lenient you want to be!
+
+The confidence_value function calculates how similar two facial encodings are by computing the distance between them. A smaller distance means the faces are more likely to match. It also provides a confidence score (between 0 and 1) that indicates the likelihood of a correct match, with a higher score suggesting a stronger match. This score helps decide if the two faces belong to the same person based on a set threshold.
 
 
 ![Facial Verification Testing](images/testing_example1.png)
