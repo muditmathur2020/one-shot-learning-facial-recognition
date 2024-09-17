@@ -6,6 +6,8 @@
 
 Facial verification using biometric data has become an essential aspect of security systems, from mobile devices to advanced surveillance systems. Traditional methods often require a large amount of labeled data for training, which may not always be feasible. **One-Shot Learning** provides a solution by enabling facial verification with only a single training example. This project leverages One-Shot Learning techniques, particularly using Siamese Networks, to build an efficient and accurate facial verification system.
 
+> **Learn more about One-Shot Learning**: [https://medium.com/@saba99/one-shot-learning-312e385993bc](https://medium.com/@saba99/one-shot-learning-312e385993bc)
+
 ![Facial Verification Example](images/example1.png)
 
 ## Testing Method
