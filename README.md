@@ -8,8 +8,6 @@ Facial verification using biometric data has become an essential aspect of secur
 
 > **Learn more about One-Shot Learning**: [https://medium.com/@saba99/one-shot-learning-312e385993bc](https://medium.com/@saba99/one-shot-learning-312e385993bc)
 
-![Facial Verification Example](images/example2.jpg)
-
 ## Important Note
 
 Make sure to include your own selfies and passport-sized pictures in the testing data. 
@@ -36,3 +34,5 @@ pip install -r requirements.txt
 
 1. Extracting the image from the document (State ID, Aadhar, Passport)
 2. Liveness Detection from the video (Need to shift from image system to video system)
+
+![Facial Verification Example](images/example2.jpg)
