@@ -10,6 +10,11 @@ Facial verification using biometric data has become an essential aspect of secur
 
 ![Facial Verification Example](images/example1.png)
 
+## Important Note
+
+Make sure to include your own selfies and passport-sized pictures in the testing data. 
+
+
 ## Testing Method
 
 We use "Confidence" as a parameter, ideally you should set it to higher than 95%. But depends on how lenient you want to be!
